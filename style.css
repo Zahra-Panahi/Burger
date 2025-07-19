@@ -78,6 +78,7 @@ header{
   left: 11rem;
   letter-spacing: 1px;
   animation: fadeInUp 1s ease-in-out;
+  margin-right: 35rem;
 }
 .text h1{
   font-weight: bold;
@@ -110,9 +111,8 @@ header{
 }
 .burger{
   position: fixed;
-  margin-left: 45rem;
   bottom: 20px;
-  left:50px;
+  margin-left: 45rem;
   transform: translateX(-50%);
   display: flex;
   width: 90%;
