@@ -110,6 +110,7 @@ header{
 }
 .burger{
   position: fixed;
+  margin-left: 45rem;
   bottom: 20px;
   left:50px;
   transform: translateX(-50%);
